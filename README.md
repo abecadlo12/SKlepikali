@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-    <title>Sreberko - Sklep z modną biżuterią</title> 
-
+    <title>Sreberko - Sklep z modną biżuterią</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
         
@@ -87,16 +85,17 @@
             background: #ff6f61;
             color: white;
         }
-         .title {
+        .title {
             font-size: 50px;
-            color: pink;
+            color: #b30000;
             font-family: 'Lobster', cursive;
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+            margin-top: 30px; /* Przesunięcie tytułu niżej */
         }
     </style>
 </head>
 <body>
-    <h1>Sreberko</h1>
+    <h1 class="title">Sreberko</h1>
     <p>Sklep z modną biżuterią prowadzony od 20 lat.</p>
     <img src="https://github.com/user-attachments/assets/986c7102-3b3d-4572-91d7-c66ec199f588" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
@@ -107,6 +106,5 @@
     <p style="margin-top: 20px; font-size: 20px; font-weight: bold;">Z hasłem <span style="color: #d10056;">thoni alutec</span> 10% zniżki!</p>
 </body>
 </html>
-
 
 
