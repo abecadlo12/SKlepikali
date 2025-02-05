@@ -1,4 +1,4 @@
-![21](https://github.com/user-attachments/assets/26035b32-4f81-41c4-acc6-2ad010cd0bad)# Sreberko
+# Sreberko
 Sklep z modną biżuterią prowadzony od 20 lat.
 <html lang="pl">
 <head>
