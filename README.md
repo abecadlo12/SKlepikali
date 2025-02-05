@@ -58,6 +58,9 @@ fajny sklep
             padding: 10px 20px;
             border-radius: 15px;
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    font-size: 24px; /* Większy tekst linku */
+    font-weight: bold; /* Pogrubienie */
+
         }
         a:hover {
             background: #ff6f61;
