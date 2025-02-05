@@ -17,6 +17,24 @@ fajny sklep
             margin: 0;
             background-color: #f5f5dc; /* Kremowy kolor tła */
             text-align: center;
+             position: relative;
+        }
+        .side-images {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 150px;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+        .left-side {
+            left: 0;
+            background-image: url('srebrna-bizuteria-lewa.jpg'); /* Obraz biżuterii po lewej stronie */
+        }
+        .right-side {
+            right: 0;
+            background-image: url('srebrna-bizuteria-prawa.jpg'); /* Obraz biżuterii po prawej stronie */
+        }
         }
         img {
             max-width: 90%;
