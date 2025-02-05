@@ -8,6 +8,8 @@ fajny sklep
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sklep - Lokalizacja</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+        
         body {
             display: flex;
             flex-direction: column;
@@ -15,9 +17,12 @@ fajny sklep
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: #f5f5dc; /* Kremowy kolor tła */
+            background-color: #fae3e3; /* Beżowo-różowe tło */
+            background-image: url('walentynkowe-tlo.png'); /* Motyw serduszek */
+            background-size: cover;
+            background-position: center;
             text-align: center;
-             position: relative;
+            font-family: 'Lobster', cursive;
         }
         .side-images {
             position: absolute;
@@ -29,30 +34,41 @@ fajny sklep
         }
         .left-side {
             left: 0;
-            background-image: url('srebrna-bizuteria-lewa.jpg'); /* Obraz biżuterii po lewej stronie */
+            background-image: url('serduszka-lewe.png'); /* Obraz serduszek po lewej stronie */
         }
         .right-side {
             right: 0;
-            background-image: url('srebrna-bizuteria-prawa.jpg'); /* Obraz biżuterii po prawej stronie */
-        }
+            background-image: url('serduszka-prawe.png'); /* Obraz serduszek po prawej stronie */
         }
         img {
             max-width: 90%;
             height: auto;
             border-radius: 10px;
+            border: 5px solid #ff6f61; /* Czerwona ramka */
         }
         a {
             display: block;
             margin-top: 20px;
-            font-size: 20px;
+            font-size: 24px;
             text-decoration: none;
-            color: #007bff;
+            color: #ff3b3b;
             font-weight: bold;
+            background: #fff0f0;
+            padding: 10px 20px;
+            border-radius: 15px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        a:hover {
+            background: #ff6f61;
+            color: white;
         }
     </style>
 </head>
 <body>
-<a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
+    <div class="side-images left-side"></div>
+    <div class="side-images right-side"></div>
+    <img src="twoje-zdjecie.jpg" alt="Zdjęcie sklepu">
+    <a href="[https://goo.gl/maps/example](https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111)" target="_blank">Zobacz lokalizację sklepu</a>
 </body>
 </html>
 Z hasłem thoni alutec 10 % zniżk 
