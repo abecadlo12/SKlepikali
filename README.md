@@ -1,5 +1,5 @@
-# SKlepikali
-fajny sklep
+# Sreberko
+Sklep z modną biżuterią prowadzony od 20 lat.
 ![474793547_2150730552047146_6680781606946008389_n](https://github.com/user-attachments/assets/596084ce-51c0-45c5-a2b7-7c3b5217e141)
 
 <html lang="pl">
