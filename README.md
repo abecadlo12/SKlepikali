@@ -68,7 +68,6 @@ fajny sklep
 <body>
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
-    <img src="twoje-zdjecie.jpg" alt="Zdjęcie sklepu">
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
 </body>
 </html>
