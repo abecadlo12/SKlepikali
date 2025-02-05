@@ -104,15 +104,7 @@ Sklep z modną biżuterią prowadzony od 20 lat.
         <label for="font-size">Rozmiar tekstu:</label>
         <input type="number" id="font-size" value="24" min="10" max="50" onchange="updateTextStyle()">
         
-        <label for="text-color">Kolor tekstu:</label>
-        <input type="color" id="text-color" value="#d10056" onchange="updateTextStyle()">
-        
-        <label for="font-family">Czcionka:</label>
-        <select id="font-family" onchange="updateTextStyle()">
-            <option value="'Lobster', cursive">Lobster</option>
-            <option value="'Roboto', sans-serif">Roboto</option>
-            <option value="Arial, sans-serif">Arial</option>
-            <option value="Times New Roman, serif">Times New Roman</option>
+       
         </select>
     </div>
     
