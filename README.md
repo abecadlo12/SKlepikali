@@ -1,5 +1,6 @@
 # SKlepikali
 fajny sklep
+![474793547_2150730552047146_6680781606946008389_n](https://github.com/user-attachments/assets/596084ce-51c0-45c5-a2b7-7c3b5217e141)
 <!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -33,7 +34,6 @@ fajny sklep
     </style>
 </head>
 <body>
-    <img src="![474793547_2150730552047146_6680781606946008389_n](https://github.com/user-attachments/assets/41fbbf16-858f-4ab2-803c-1cb2aa84b894)" alt="Zdjęcie sklepu">
-    <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
+<a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
 </body>
 </html>
