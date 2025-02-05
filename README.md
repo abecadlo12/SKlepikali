@@ -63,8 +63,8 @@ fajny sklep
             background: #ff6f61;
             color: white;
        .static-text {
-            margin-top: 20px;
-            font-size: 24px;
+            margin-top: 50px;
+            font-size: 50px;
             color: #d10056;
             font-family: 'Lobster', cursive;
             font-weight: bold;
