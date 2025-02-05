@@ -103,7 +103,11 @@
     <div class="side-images right-side"></div>
      <div class="static-text">Sklep znajduję się wewnątrz Hali Targowej w Stalowej Woli </div>
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
-   <div class="static-text">Sklep znajduję się wewnątrz Hali Targowej w Stalowej Woli </div>
+   <div class="static-text">Godziny otwarcia: </div>
+    <div class="static-text">Poniedziałek-Piątek </div>
+    <div class="static-text">09:00-17:00 </div>
+    <div class="static-text">Sobota </div>
+    <div class="static-text">09:00-13:00 </div>
     <a href="tel:+48509512989" class="phone-number">📞 W razie pytań Zadzwoń: +48 509 512 989 </a>
     <p style="margin-top: 20px; font-size: 20px; font-weight: bold;">Z hasłem <span style="color: #d10056;">Thoni-Alutec</span> 10% zniżki!</p>
 </body>
