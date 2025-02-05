@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sreberko - Sklep z modną biżuterią</title>
+    <title>Sreberko - Sklep z modną biżuterią</title> <p style="color: pink; font-size: 24px;">To jest przykładowy tekst</p>
+
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
         
