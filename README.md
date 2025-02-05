@@ -63,12 +63,39 @@ fajny sklep
             background: #ff6f61;
             color: white;
         }
+        .editable-text {
+            margin-top: 20px;
+            font-size: 20px;
+            color: #d10056;
+            font-family: 'Lobster', cursive;
+        }
+        .text-controls {
+            margin-top: 10px;
+        }
     </style>
+     <script>
+        function updateText() {
+            let textElement = document.getElementById('editable-text');
+            let inputText = document.getElementById('text-input').value;
+            let fontSize = document.getElementById('font-size').value + 'px';
+            let textColor = document.getElementById('text-color').value;
+            textElement.innerText = inputText;
+            textElement.style.fontSize = fontSize;
+            textElement.style.color = textColor;
+        }
+    </script>
 </head>
 <body>
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
+    <div class="editable-text" id="editable-text">Wpisz swój tekst tutaj...</div>
+    <div class="text-controls">
+        <input type="text" id="text-input" placeholder="Wpisz nowy tekst">
+        <input type="number" id="font-size" placeholder="Rozmiar" min="10" max="50" value="20">
+        <input type="color" id="text-color" value="#d10056">
+        <button onclick="updateText()">Aktualizuj tekst</button>
+    </div>
 </body>
 </html>
 Z hasłem thoni alutec 10 % zniżk 
