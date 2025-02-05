@@ -73,6 +73,24 @@ Sklep z modną biżuterią prowadzony od 20 lat.
             font-weight: bold;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         }
+        .text-controls {
+            margin-top: 20px;
+        }
+        .phone-number {
+            margin-top: 20px;
+            font-size: 24px;
+            font-weight: bold;
+            color: #ff3b3b;
+            text-decoration: none;
+            background: #fff0f0;
+            padding: 10px 20px;
+            border-radius: 15px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        .phone-number:hover {
+            background: #ff6f61;
+            color: white;
+        }
     
     </style>
   
@@ -82,6 +100,24 @@ Sklep z modną biżuterią prowadzony od 20 lat.
     <div class="side-images right-side"></div>
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
    <div class="static-text">Twoja specjalna wiadomość walentynkowa!</div>
+    <div class="text-controls">
+        <label for="font-size">Rozmiar tekstu:</label>
+        <input type="number" id="font-size" value="24" min="10" max="50" onchange="updateTextStyle()">
+        
+        <label for="text-color">Kolor tekstu:</label>
+        <input type="color" id="text-color" value="#d10056" onchange="updateTextStyle()">
+        
+        <label for="font-family">Czcionka:</label>
+        <select id="font-family" onchange="updateTextStyle()">
+            <option value="'Lobster', cursive">Lobster</option>
+            <option value="'Roboto', sans-serif">Roboto</option>
+            <option value="Arial, sans-serif">Arial</option>
+            <option value="Times New Roman, serif">Times New Roman</option>
+        </select>
+    </div>
+    
+    <a href="tel:+48509512989" class="phone-number">📞 Zadzwoń: +48 509 512 989 </a>
+
 </body>
 </html>
 Z hasłem thoni alutec 10 % zniżk 
