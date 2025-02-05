@@ -1,5 +1,7 @@
 # Sreberko
 Sklep z modną biżuterią prowadzony od 20 lat.
+![21](https://github.com/user-attachments/assets/986c7102-3b3d-4572-91d7-c66ec199f588)
+
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -78,7 +80,6 @@ Sklep z modną biżuterią prowadzony od 20 lat.
 <body>
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
-    <img src="![21](https://github.com/user-attachments/assets/0027cf8e-937a-4659-944c-b8af968a2bbc)" alt="Zdjęcie sklepu">
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
    <div class="static-text">Twoja specjalna wiadomość walentynkowa!</div>
 </body>
