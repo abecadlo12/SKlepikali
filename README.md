@@ -101,8 +101,7 @@ Sklep z modną biżuterią prowadzony od 20 lat.
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
    <div class="static-text">Twoja specjalna wiadomość walentynkowa!</div>
     <div class="text-controls">
-        <label for="font-size">Rozmiar tekstu:</label>
-        <input type="number" id="font-size" value="24" min="10" max="50" onchange="updateTextStyle()">
+       
         
        
         </select>
