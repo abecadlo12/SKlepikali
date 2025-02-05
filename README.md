@@ -15,7 +15,7 @@ fajny sklep
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-color: #f4f4f4;
+            background-color: #f5f5dc; /* Kremowy kolor tła */
             text-align: center;
         }
         img {
