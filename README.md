@@ -40,6 +40,12 @@ fajny sklep
             right: 0;
             background-image: url('serduszka-prawe.png'); /* Obraz serduszek po prawej stronie */
         }
+         img {
+            max-width: 90%;
+            height: auto;
+            border-radius: 10px;
+            border: 5px solid #ff6f61; /* Czerwona ramka */
+        }
       
         a {
             display: block;
