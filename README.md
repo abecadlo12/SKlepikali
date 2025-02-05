@@ -1,12 +1,9 @@
-# Sreberko
-Sklep z modną biżuterią prowadzony od 20 lat.
-![21](https://github.com/user-attachments/assets/986c7102-3b3d-4572-91d7-c66ec199f588)
-
+<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sklep - Lokalizacja</title>
+    <title>Sreberko - Sklep z modną biżuterią</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
         
@@ -40,13 +37,12 @@ Sklep z modną biżuterią prowadzony od 20 lat.
             right: 0;
             background-image: url('serduszka-prawe.png'); /* Obraz serduszek po prawej stronie */
         }
-         img {
+        img {
             max-width: 90%;
             height: auto;
             border-radius: 10px;
             border: 5px solid #ff6f61; /* Czerwona ramka */
         }
-      
         a {
             display: block;
             margin-top: 20px;
@@ -58,16 +54,14 @@ Sklep z modną biżuterią prowadzony od 20 lat.
             padding: 10px 20px;
             border-radius: 15px;
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    font-size: 24px; /* Większy tekst linku */
-    font-weight: bold; /* Pogrubienie */
-
         }
         a:hover {
             background: #ff6f61;
             color: white;
-       .static-text {
-            margin-top: 50px;
-            font-size: 50px;
+        }
+        .static-text {
+            margin-top: 20px;
+            font-size: 24px;
             color: #d10056;
             font-family: 'Lobster', cursive;
             font-weight: bold;
@@ -91,26 +85,20 @@ Sklep z modną biżuterią prowadzony od 20 lat.
             background: #ff6f61;
             color: white;
         }
-    
     </style>
-  
 </head>
 <body>
+    <h1>Sreberko</h1>
+    <p>Sklep z modną biżuterią prowadzony od 20 lat.</p>
+    <img src="https://github.com/user-attachments/assets/986c7102-3b3d-4572-91d7-c66ec199f588" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
    <div class="static-text">Twoja specjalna wiadomość walentynkowa!</div>
-    <div class="text-controls">
-       
-        
-       
-        </select>
-    </div>
-    
     <a href="tel:+48509512989" class="phone-number">📞 Zadzwoń: +48 509 512 989 </a>
-
+    <p style="margin-top: 20px; font-size: 20px; font-weight: bold;">Z hasłem <span style="color: #d10056;">thoni alutec</span> 10% zniżki!</p>
 </body>
 </html>
-Z hasłem thoni alutec 10 % zniżk 
+
 
 
