@@ -109,7 +109,7 @@
     <div class="static-text">Sobota </div>
     <div class="static-text">09:00-13:00 </div>
     <a href="tel:+48509512989" class="phone-number">📞 W razie pytań Zadzwoń: +48 509 512 989 </a>
-    <p style="margin-top: 20px; font-size: 20px; font-weight: bold;">Z hasłem <span style="color: #d10056;">Thoni-Alutec</span> 10% zniżki!</p>
+    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;">Z hasłem <span style="color: #d10056;">Thoni-Alutec</span> 10% zniżki!</p>
 </body>
 </html>
 
