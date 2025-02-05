@@ -12,7 +12,7 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            min-height: 100vh;
             margin: 0;
             background-color: #fae3e3; /* Beżowo-różowe tło */
             background-image: url('walentynkowe-tlo.png'); /* Motyw serduszek */
@@ -20,6 +20,7 @@
             background-position: center;
             text-align: center;
             font-family: 'Lobster', cursive;
+            padding-top: 20px;
         }
         .side-images {
             position: absolute;
@@ -90,7 +91,7 @@
             color: #b30000;
             font-family: 'Lobster', cursive;
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-            margin-top: 30px; /* Przesunięcie tytułu niżej */
+            margin-top: 60px; /* Dodatkowe przesunięcie tytułu niżej */
         }
     </style>
 </head>
