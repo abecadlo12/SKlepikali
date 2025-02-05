@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sreberko - Sklep z modną biżuterią</title> <p style="color: pink; font-size: 24px;">To jest przykładowy tekst</p>
+    <title>Sreberko - Sklep z modną biżuterią</title> 
 
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
@@ -85,6 +85,12 @@
         .phone-number:hover {
             background: #ff6f61;
             color: white;
+        }
+         .title {
+            font-size: 50px;
+            color: pink;
+            font-family: 'Lobster', cursive;
+            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
         }
     </style>
 </head>
