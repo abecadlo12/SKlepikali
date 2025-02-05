@@ -1,7 +1,7 @@
 # SKlepikali
 fajny sklep
 ![474793547_2150730552047146_6680781606946008389_n](https://github.com/user-attachments/assets/596084ce-51c0-45c5-a2b7-7c3b5217e141)
-<!DOCTYPE html>
+
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
