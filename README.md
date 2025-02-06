@@ -108,7 +108,7 @@
      <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio';">Z hasłem <span style="color: #b30000;">Thoni-Alutec</span> 10% zniżki!</p>
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
    <a href="tel:+48509512989" class="phone-number">📞 Telefon lub Whatsapp: +48 509 512 989 </a>
-     <div class="static-text">Przykładowe oferty walentynkowe (tylko dla pracowników Thoni Alutec!): </div>
+     <div class="static-text">Przykładowe oferty walentynkowe-tylko dla pracowników Thoni Alutec: </div>
     <img src="https://github.com/user-attachments/assets/235a39ec-3957-4a85-babc-e26829e40600" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">150 zł</s> ➝ 
