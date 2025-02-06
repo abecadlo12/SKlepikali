@@ -128,7 +128,7 @@
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">66 zł</s> ➝ 
     <span style="color: #008000;">59 zł</span>
-</p>
+
 
 </p>
 <details style="margin-top: 15px; font-size: 20px; text-align: center;">
@@ -141,7 +141,7 @@
         - Kamień: Cyrkonia <br>
         
         
-    </p>
+  
 </details>
 <img src="https://github.com/user-attachments/assets/773a2634-aea9-4c75-ae92-e55e904b8035" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
@@ -155,13 +155,30 @@
          Informacje o produkcie
     </summary>
     <p style="margin-top: 10px; font-size: 18px; color: #333;">
-        - bransoletka <br>
+        - naszyjnik <br>
+        - Materiał: Srebro próby 925 <br>
+        - Kamień: Cyrkonia + Szafir <br>
+
+        <img src="https://github.com/user-attachments/assets/739f549b-b339-47de-84d8-1917eab39c6d" alt="zdjęcie oferty">
+ <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
+    <s style="color: #b30000;">260 zł</s> ➝ 
+    <span style="color: #008000;">234 zł</span>
+</p>
+
+</p>
+<details style="margin-top: 15px; font-size: 20px; text-align: center;">
+    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
+         Informacje o produkcie
+    </summary>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">
+        - komplet: Kolczyki + Zawieszka <br>
         - Materiał: Srebro próby 925 <br>
         - Kamień: Cyrkonia <br>
         
         
     </p>
 </details>
+
 
     
 </body>
