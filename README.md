@@ -98,7 +98,7 @@
 </head>
 <body>
     <h1 class="title"> <img src="https://github.com/user-attachments/assets/41d7213a-1db6-4b80-99e5-7ef170c9a1cb" alt="tytuł"></h1>
-    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Kwiaty więdną, czekoladki znikają, a biżuteria zostaje na zawsze.</p>
+    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Kwiaty więdną, czekoladki znikaj.</p>
     <div class="static-text"> --------------- </div>
     <div class="static-text"> BIŻUTERIA </div>
     <div class="static-text"> Prezent na dziś, skarb na zawsze. </div>
