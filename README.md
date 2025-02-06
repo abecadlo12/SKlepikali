@@ -99,7 +99,7 @@
 <body>
     <h1 class="title">Sreberko</h1>
     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Kwiaty zwiędną, czekoladki znikną w kilka chwil, a pluszowe misie trafią na półkę. Biżuteria? Ona pozostanie – jako symbol miłości, elegancji i wyjątkowych chwil.</p>
-    <img src="https://github.com/user-attachments/assets/f2c74033-f881-4f29-8ea2-5b4ec5e465e0" alt="Zdjęcie sklepu">
+    <img src="https://github.com/user-attachments/assets/1f40c95c-7f81-4e32-b641-828dd979f8d6" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
      <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Z hasłem <span style="color: #b30000;">Thoni-Alutec</span> 10% zniżki!</p>
