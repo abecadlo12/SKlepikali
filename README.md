@@ -177,8 +177,29 @@
         - Kamień: Cyrkonia <br>
         
         
+    
+
+</details>
+<img src="https://github.com/user-attachments/assets/e0ba80a8-c553-4686-8386-64972c84297e" alt="zdjęcie oferty">
+ <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
+    <s style="color: #b30000;">69 zł</s> ➝ 
+    <span style="color: #008000;">62 zł</span>
+</p>
+
+</p>
+<details style="margin-top: 15px; font-size: 20px; text-align: center;">
+    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
+         Informacje o produkcie
+    </summary>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">
+        - komplet: Kolczyki <br>
+        - Materiał: Srebro próby 925 <br>
+        - Kamień: Cyrkonia <br>
+        
+        
     </p>
 </details>
+
 
 
     
