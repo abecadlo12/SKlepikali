@@ -123,11 +123,11 @@
         ℹ️ Informacje o produkcie
     </summary>
     <p style="margin-top: 10px; font-size: 18px; color: #333;">
+        Komplet-kolczyki i zawieszka 
         - Materiał: Srebro próby 925 <br>
-        - Waga: 5g <br>
         - Kamień: Cyrkonia <br>
-        - Ręcznie wykonany w Polsce <br>
-        - Gwarancja: 2 lata
+        
+        
     </p>
 </details>
 
