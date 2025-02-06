@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sreberko - Sklep z modną biżuterią</title>
+    <title> <img src="https://github.com/user-attachments/assets/9d514a10-95d6-438c-9a5b-fd8fd4ab4de2" alt="Zdjęcie sklepu"></title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
         
