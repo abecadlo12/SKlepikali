@@ -87,7 +87,7 @@
             color: white;
         }
         .title {
-            margin-top: 25px;
+            margin-top: 35px;
             font-size: 70px;
             color: #b30000;
             font-family: 'Lobster', cursive;
