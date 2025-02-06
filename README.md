@@ -118,7 +118,7 @@
 </p>
 <details style="margin-top: 15px; font-size: 20px; text-align: center;">
     <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
-        ℹ️ Informacje o produkcie
+         Informacje o produkcie
     </summary>
     <p style="margin-top: 10px; font-size: 18px; color: #333;">
         - Komplet: kolczyki i zawieszka <br>
