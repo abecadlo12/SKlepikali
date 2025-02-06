@@ -143,6 +143,25 @@
         
     </p>
 </details>
+<img src="https://github.com/user-attachments/assets/773a2634-aea9-4c75-ae92-e55e904b8035" alt="zdjęcie oferty">
+ <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
+    <s style="color: #b30000;">79 zł</s> ➝ 
+    <span style="color: #008000;">71 zł</span>
+</p>
+
+</p>
+<details style="margin-top: 15px; font-size: 20px; text-align: center;">
+    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
+         Informacje o produkcie
+    </summary>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">
+        - bransoletka <br>
+        - Materiał: Srebro próby 925 <br>
+        - Kamień: Cyrkonia <br>
+        
+        
+    </p>
+</details>
 
     
 </body>
