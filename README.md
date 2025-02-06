@@ -159,8 +159,8 @@
         - Kamień: Cyrkonia + Szafir <br>
 
 </p>
-
-        <img src="https://github.com/user-attachments/assets/739f549b-b339-47de-84d8-1917eab39c6d" alt="zdjęcie oferty">
+</details>
+<img src="https://github.com/user-attachments/assets/739f549b-b339-47de-84d8-1917eab39c6d" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">260 zł</s> ➝ 
     <span style="color: #008000;">234 zł</span>
