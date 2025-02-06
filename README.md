@@ -112,6 +112,12 @@
     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;">Z hasłem <span style="color: #d10056;">Thoni-Alutec</span> 10% zniżki!</p>
     <div class="static-text">Przykładowe oferty walentynkowe: </div>
     <img src="https://github.com/user-attachments/assets/235a39ec-3957-4a85-babc-e26829e40600" alt="zdjęcie oferty">
+    <!-- Nowy fragment: Cena przed i po rabacie -->
+<p style="margin-top: 10px; font-size: 22px; font-weight: bold;">
+    Cena przed rabatem: <s style="color: #b30000;">199 zł</s>  
+    <br>
+    Cena po rabacie: <span style="color: #008000;">179 zł</span>
+</p>
     
 </body>
 </html>
