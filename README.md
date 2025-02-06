@@ -49,7 +49,7 @@
             margin-top: 20px;
             font-size: 24px;
             text-decoration: none;
-            color: #ff3b3b;
+            color: #b30000;
             font-weight: bold;
             background: #fff0f0;
             padding: 10px 20px;
@@ -64,7 +64,7 @@
             margin-top: 20px;
             font-size: 24px;
             color: black;
-            font-family: 'Pacificio', cursive;
+            font-family: 'Pacificio';
             font-weight: bold;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         }
