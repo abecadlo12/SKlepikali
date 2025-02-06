@@ -75,7 +75,7 @@
             margin-top: 20px;
             font-size: 24px;
             font-weight: bold;
-            color: #ff3b3b;
+            color: #b30000;
             text-decoration: none;
             background: #fff0f0;
             padding: 10px 20px;
