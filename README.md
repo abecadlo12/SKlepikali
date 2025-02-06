@@ -3,9 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> name= "Srebereko" </title>
+    <title> name= "Walentynki" </title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #fff;
+            margin: 0;
+        }
+        .valentine-text {
+            font-family: 'Pacifico', cursive;
+            font-size: 80px;
+            color: red;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        }
         
         body {
             display: flex;
