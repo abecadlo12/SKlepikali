@@ -99,7 +99,7 @@
 <body>
     <h1 class="title">Sreberko</h1>
     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Kwiaty zwiędną, czekoladki znikną w kilka chwil, a pluszowe misie trafią na półkę. Biżuteria? Ona pozostanie – jako symbol miłości, elegancji i wyjątkowych chwil.</p>
-    <img src="https://github.com/user-attachments/assets/986c7102-3b3d-4572-91d7-c66ec199f588" alt="Zdjęcie sklepu">
+    <img src="https://github.com/user-attachments/assets/f2c74033-f881-4f29-8ea2-5b4ec5e465e0" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
      <div class="static-text">Sklep znajduję się wewnątrz Hali Targowej w Stalowej Woli </div>
