@@ -98,7 +98,11 @@
 </head>
 <body>
     <h1 class="title"> <img src="https://github.com/user-attachments/assets/41d7213a-1db6-4b80-99e5-7ef170c9a1cb" alt="tytuł"></h1>
-    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Kwiaty zwiędną, czekoladki znikną w kilka chwil, a pluszowe misie trafią na półkę. Biżuteria? Ona pozostanie – jako symbol miłości, elegancji i wyjątkowych chwil.</p>
+    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Kwiaty więdną, czekoladki znikają, a biżuteria zostaje na zawsze.</p>
+    <div class="static-text"> --------------- </div>
+    <div class="static-text"> BIŻUTERIA </div>
+    <div class="static-text"> --------------- </div>
+    <div class="static-text"> Prezent na dziś, skarb na zawsze. </div>
     <img src="https://github.com/user-attachments/assets/1f40c95c-7f81-4e32-b641-828dd979f8d6" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
