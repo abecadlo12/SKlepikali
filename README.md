@@ -90,7 +90,7 @@
             margin-top: 35px;
             font-size: 90px;
             color: #b30000;
-            font-family: 'Lobster', cursive;
+            font-family: 'Pacifico';
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
             margin-top: 60px; /* Dodatkowe przesunięcie tytułu niżej */
         }
