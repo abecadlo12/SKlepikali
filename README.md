@@ -118,6 +118,19 @@
     <br>
     Cena po rabacie: <span style="color: #008000;">179 zł</span>
 </p>
+<details style="margin-top: 15px; font-size: 20px; text-align: center;">
+    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
+        ℹ️ Informacje o produkcie
+    </summary>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">
+        - Materiał: Srebro próby 925 <br>
+        - Waga: 5g <br>
+        - Kamień: Cyrkonia <br>
+        - Ręcznie wykonany w Polsce <br>
+        - Gwarancja: 2 lata
+    </p>
+</details>
+
     
 </body>
 </html>
