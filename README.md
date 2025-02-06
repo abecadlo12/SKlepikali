@@ -42,7 +42,7 @@
             max-width: 90%;
             height: auto;
             border-radius: 10px;
-            border: 5px solid #ff6f61; /* Czerwona ramka */
+            border: 5px solid #b30000; /* Czerwona ramka */
         }
         a {
             display: block;
@@ -108,7 +108,7 @@
     <div class="static-text">09:00-17:00 </div>
     <div class="static-text">Sobota </div>
     <div class="static-text">09:00-13:00 </div>
-    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Z hasłem <span style="color: #d10056;">Thoni-Alutec</span> 10% zniżki!</p>
+    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Z hasłem <span style="color: #b30000;">Thoni-Alutec</span> 10% zniżki!</p>
     <a href="tel:+48509512989" class="phone-number">📞 W razie pytań Zadzwoń: +48 509 512 989 </a>
      <div class="static-text">Przykładowe oferty walentynkowe: </div>
     <img src="https://github.com/user-attachments/assets/235a39ec-3957-4a85-babc-e26829e40600" alt="zdjęcie oferty">
