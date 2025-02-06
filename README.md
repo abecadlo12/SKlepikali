@@ -19,7 +19,7 @@
             background-size: cover;
             background-position: center;
             text-align: center;
-            font-family: 'Lobster', cursive;
+            font-family: 'Pacificio';
             padding-top: 20px;
         }
         .side-images {
@@ -64,7 +64,7 @@
             margin-top: 20px;
             font-size: 24px;
             color: black;
-            font-family: 'Lobster', cursive;
+            font-family: 'Pacificio', cursive;
             font-weight: bold;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         }
@@ -98,7 +98,7 @@
 </head>
 <body>
     <h1 class="title"> <img src="https://github.com/user-attachments/assets/41d7213a-1db6-4b80-99e5-7ef170c9a1cb" alt="tytuł"></h1>
-    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Kwiaty więdną, czekoladki znikają, a biżuteria zostaje na zawsze.</p>
+    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Kwiaty więdną, czekoladki znikają, a biżuteria zostaje na zawsze.</p>
     <div class="static-text"> --------------- </div>
     <div class="static-text"> BIŻUTERIA </div>
     <div class="static-text"> --------------- </div>
@@ -106,7 +106,7 @@
     <img src="https://github.com/user-attachments/assets/1f40c95c-7f81-4e32-b641-828dd979f8d6" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
-     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Z hasłem <span style="color: #b30000;">Thoni-Alutec</span> 10% zniżki!</p>
+     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio';">Z hasłem <span style="color: #b30000;">Thoni-Alutec</span> 10% zniżki!</p>
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
    <a href="tel:+48509512989" class="phone-number">📞 W razie pytań Zadzwoń: +48 509 512 989 </a>
      <div class="static-text">Przykładowe oferty walentynkowe (z hasłem): </div>
