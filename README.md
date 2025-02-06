@@ -136,7 +136,7 @@
          Informacje o produkcie
     </summary>
     <p style="margin-top: 10px; font-size: 18px; color: #333;">
-        - Komplet: kolczyki i zawieszka <br>
+        - bransoletka <br>
         - Materiał: Srebro próby 925 <br>
         - Kamień: Cyrkonia <br>
         
