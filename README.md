@@ -199,6 +199,25 @@
         
     </p>
 </details>
+<img src="https://github.com/user-attachments/assets/66c514b4-b417-4fc4-a666-d24542ea57ed" alt="zdjęcie oferty">
+ <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
+    <s style="color: #b30000;">289 zł</s> ➝ 
+    <span style="color: #008000;">260 zł</span>
+</p>
+
+</p>
+<details style="margin-top: 15px; font-size: 20px; text-align: center;">
+    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
+         Informacje o produkcie
+    </summary>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">
+        - komplet: Bransoletka  <br>
+        - Materiał: Srebro rodowane próby 925 <br>
+        - Kamień: brak <br>
+        
+        
+    </p>
+</details>
 
 
 
