@@ -16,9 +16,9 @@
             margin: 0;
         }
         .valentine-text {
-            font-family: 'Pacifico';
+            font-family: 'Pacifico',cursive;
             font-size: 80px;
-            color: red;
+            color: #b30000;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         }
         
