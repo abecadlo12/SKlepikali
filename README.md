@@ -88,7 +88,7 @@
         }
         .title {
             margin-top: 35px;
-            font-size: 70px;
+            font-size: 90px;
             color: #b30000;
             font-family: 'Lobster', cursive;
             text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
