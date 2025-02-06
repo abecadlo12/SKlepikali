@@ -110,11 +110,11 @@
    <a href="tel:+48509512989" class="phone-number">📞 Telefon lub Whatsapp: +48 509 512 989 </a>
      <div class="static-text">Przykładowe oferty walentynkowe (tylko dla pracowników Thoni Alutec!): </div>
     <img src="https://github.com/user-attachments/assets/235a39ec-3957-4a85-babc-e26829e40600" alt="zdjęcie oferty">
-    <!-- Nowy fragment: Cena przed i po rabacie -->
-<p style="margin-top: 10px; font-size: 22px; font-weight: bold;">
-    Cena przed rabatem: <s style="color: #b30000;">199 zł</s>  
-    <br>
-    Cena po rabacie: <span style="color: #008000;">179 zł</span>
+ <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
+    <s style="color: #b30000;">150 zł</s> ➝ 
+    <span style="color: #008000;">130 zł</span>
+</p>
+
 </p>
 <details style="margin-top: 15px; font-size: 20px; text-align: center;">
     <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
