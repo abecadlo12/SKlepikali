@@ -178,7 +178,7 @@
         
         
     
-
+</p>
 </details>
 <img src="https://github.com/user-attachments/assets/e0ba80a8-c553-4686-8386-64972c84297e" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
