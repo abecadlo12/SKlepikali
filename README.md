@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> <img src="https://github.com/user-attachments/assets/9d514a10-95d6-438c-9a5b-fd8fd4ab4de2" alt="Zdjęcie sklepu"></title>
+    <title> name= "Srebereko" </title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
         
@@ -97,7 +97,7 @@
     </style>
 </head>
 <body>
-    <h1 class="title">Sreberko</h1>
+    <h1 class="title"> <img src="https://github.com/user-attachments/assets/41d7213a-1db6-4b80-99e5-7ef170c9a1cb" alt="tytuł"></h1>
     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Lobster', cursive;">Kwiaty zwiędną, czekoladki znikną w kilka chwil, a pluszowe misie trafią na półkę. Biżuteria? Ona pozostanie – jako symbol miłości, elegancji i wyjątkowych chwil.</p>
     <img src="https://github.com/user-attachments/assets/1f40c95c-7f81-4e32-b641-828dd979f8d6" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
